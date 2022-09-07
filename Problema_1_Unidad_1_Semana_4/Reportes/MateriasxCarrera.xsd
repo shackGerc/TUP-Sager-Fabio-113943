@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MateriasxCarrera" targetNamespace="http://tempuri.org/MateriasxCarrera.xsd" xmlns:mstns="http://tempuri.org/MateriasxCarrera.xsd" xmlns="http://tempuri.org/MateriasxCarrera.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MateriasxCarrera" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="MateriasxCarrera" msprop:Generator_DataSetName="MateriasxCarrera">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTMateriasxCarreras" msprop:Generator_RowEvHandlerName="DTMateriasxCarrerasRowChangeEventHandler" msprop:Generator_RowDeletedName="DTMateriasxCarrerasRowDeleted" msprop:Generator_RowDeletingName="DTMateriasxCarrerasRowDeleting" msprop:Generator_RowEvArgName="DTMateriasxCarrerasRowChangeEvent" msprop:Generator_TablePropName="DTMateriasxCarreras" msprop:Generator_RowChangedName="DTMateriasxCarrerasRowChanged" msprop:Generator_RowChangingName="DTMateriasxCarrerasRowChanging" msprop:Generator_TableClassName="DTMateriasxCarrerasDataTable" msprop:Generator_RowClassName="DTMateriasxCarrerasRow" msprop:Generator_TableVarName="tableDTMateriasxCarreras" msprop:Generator_UserTableName="DTMateriasxCarreras">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Carrera" msprop:Generator_ColumnPropNameInRow="Carrera" msprop:Generator_ColumnPropNameInTable="CarreraColumn" msprop:Generator_ColumnVarNameInTable="columnCarrera" msprop:Generator_UserColumnName="Carrera" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad_materias" msprop:Generator_ColumnPropNameInRow="Cantidad_materias" msprop:Generator_ColumnPropNameInTable="Cantidad_materiasColumn" msprop:Generator_ColumnVarNameInTable="columnCantidad_materias" msprop:Generator_UserColumnName="Cantidad_materias" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
