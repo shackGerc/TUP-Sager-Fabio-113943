@@ -19,6 +19,7 @@ namespace Problema_1_Unidad_1.Presentacion
         AccesoBD accesoDB;
         List<Carrera> carreras;
         Carrera carreraOriginal;
+        bool SeApretoCancelar;
         string nombreCarreraOriginal;
 
         public frmModificar()
@@ -154,9 +155,10 @@ namespace Problema_1_Unidad_1.Presentacion
 
         private void frmModificar_Load(object sender, EventArgs e)
         {
-            cboMaterias.DataSource = accesoDB.HacerConsultaConSP("pa_recuperar_asignaturas");
-            cboMaterias.ValueMember = "cod_asignatura";
-            cboMaterias.DisplayMember = "nombre";
+            DataTable tabla = accesoDB.HacerConsultaConSP("pa_recuperar_asignaturas");
+            cboMaterias.DataSource = tabla;
+            cboMaterias.ValueMember = tabla.Columns[0].ColumnName;
+            cboMaterias.DisplayMember = tabla.Columns[1].ColumnName;
             cboMaterias.SelectedIndex = -1;
 
             CargarListaCarreras();

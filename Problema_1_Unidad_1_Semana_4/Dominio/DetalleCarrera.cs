@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problema_1_Unidad_1.Dominio
 {
-    internal class DetalleCarrera
+    internal class DetalleCarrera:ICloneable
     {
         public int Cuatrimestre
         {
@@ -39,6 +39,17 @@ namespace Problema_1_Unidad_1.Dominio
             AnioCursado = anioCursado;
             Cuatrimestre = cuatrimestre;
             Materia = asignatura;
+        }
+
+        public object Clone()
+        {
+            DetalleCarrera clonDetalle = new DetalleCarrera();
+
+            clonDetalle.AnioCursado = AnioCursado;
+            clonDetalle.Cuatrimestre = Cuatrimestre;
+            clonDetalle.Materia = (Asignatura)Materia.Clone();
+
+            return clonDetalle;
         }
 
         public override string ToString()

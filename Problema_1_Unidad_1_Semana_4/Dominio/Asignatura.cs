@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problema_1_Unidad_1.Dominio
 {
-    internal class Asignatura
+    internal class Asignatura:ICloneable
     {
         public int Codigo 
         {
@@ -18,6 +18,15 @@ namespace Problema_1_Unidad_1.Dominio
         {
             get;
             set; 
+        }
+
+        public object Clone()
+        {
+            Asignatura clonAsignatura = new Asignatura();
+            clonAsignatura.Codigo = Codigo;
+            clonAsignatura.Nombre = Nombre;
+
+            return clonAsignatura;
         }
 
         public override string ToString()

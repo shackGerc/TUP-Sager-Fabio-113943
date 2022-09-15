@@ -43,7 +43,8 @@ namespace Problema_1_Unidad_1.Dominio
             
             for(int i = 0; i < detalles.Count; i++)
             {
-                clonCarrera.AgregarDetalle(detalles[i]);
+                DetalleCarrera dt = (DetalleCarrera) detalles[i].Clone();
+                clonCarrera.AgregarDetalle(dt);
             }
             
 
