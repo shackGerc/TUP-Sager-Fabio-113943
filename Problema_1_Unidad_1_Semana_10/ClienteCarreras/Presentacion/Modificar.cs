@@ -84,7 +84,7 @@ namespace ClienteCarreras.Presentacion
 
         private async Task CargarListaCarrerasAsync()
         {
-            string url = "http://localhost:5225/api/ControllerCarreras";
+            string url = "http://localhost:5225/CarreraGet";
             var data = await ClienteSingleton.ObtenerInstancia().GetAsync(url);
             List<Carrera> todasLasCarreras = JsonConvert.DeserializeObject<List<Carrera>>(data);
 
@@ -200,11 +200,21 @@ namespace ClienteCarreras.Presentacion
             lstMaterias.SelectedIndex = -1;
         }
 
-        private void btnAceptar_Click(object sender, EventArgs e)
+        private async void btnAceptar_Click(object sender, EventArgs e)
         {
             Carrera carreraModificada = carreras[lstCarreras.SelectedIndex];
 
-            servicio.ModificarCarrera(carreraModificada);
+            string url = "http://localhost:5225/carreraPut";
+            string carreraJson = JsonConvert.SerializeObject(carreraModificada);
+
+            var result = await ClienteSingleton.ObtenerInstancia().PutAsync(url, carreraJson);
+
+            if (result.Equals("true"))
+                MessageBox.Show("La carerra se modifico con exito", "Modificación", MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+            else
+                MessageBox.Show("La carerra no se pudo modificar", "Modificación", MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
 
             lstCarreras.Enabled = true;
             HabilitarBotones(false);

@@ -31,7 +31,7 @@ namespace ClienteCarreras.Presentacion
 
         private async Task CargarListaCarrerasAsync()
         {
-            string url = "http://localhost:5225/api/ControllerCarreras";
+            string url = "http://localhost:5225/CarreraGet";
             var data = await ClienteSingleton.ObtenerInstancia().GetAsync(url);
             List<Carrera> todasLasCarreras = JsonConvert.DeserializeObject<List<Carrera>>(data);
 
@@ -107,16 +107,16 @@ namespace ClienteCarreras.Presentacion
             this.Dispose();
         }
 
-        private async Task<bool> DeshabilitarCarrera(Carrera carreraABorrar)
+        private async Task<bool> DeshabilitarORestaurarCarrera(Carrera carrera)
         {
-            string url = "http://localhost:5225/carrera";
-            string carreraJson = JsonConvert.SerializeObject(carreraABorrar);
+            string url = "http://localhost:5225/carreraPut";
+            string carreraJson = JsonConvert.SerializeObject(carrera);
 
             var result = await ClienteSingleton.ObtenerInstancia().PutAsync(url, carreraJson);
             return result.Equals("true");
         }
 
-        private void btnBorrar_Click(object sender, EventArgs e)
+        private async void btnBorrar_ClickAsync(object sender, EventArgs e)
         {
             Carrera carreraABorrar = carreras[lstCarreras.SelectedIndex];
 
@@ -128,7 +128,7 @@ namespace ClienteCarreras.Presentacion
                 carreraABorrar.Deshabilitada = true;
 
 
-                if (/*await DeshabilitarCarrera(carreraABorrar)*/ servicio.DeshabilitarCarrera(carreraABorrar))
+                if (await DeshabilitarORestaurarCarrera(carreraABorrar))
                 {
                     lstCarreras.Items.Remove(carreraABorrar);
                     carreras.Remove(carreraABorrar);
@@ -159,7 +159,7 @@ namespace ClienteCarreras.Presentacion
             }
         }
 
-        private void btnRestaurar_Click(object sender, EventArgs e)
+        private async void btnRestaurar_ClickAsync(object sender, EventArgs e)
         {
             Carrera carreraARestaurar = carrerasDeshabilitadas[lstCarreras.SelectedIndex];
 
@@ -174,12 +174,20 @@ namespace ClienteCarreras.Presentacion
 
                 carreraARestaurar.Deshabilitada = false;
 
-                servicio.DeshabilitarCarrera(carreraARestaurar);
-
-                MessageBox.Show($"La carrera {carreraARestaurar.NombreTitulo} ha sido " +
+                if(await DeshabilitarORestaurarCarrera(carreraARestaurar))
+                {
+                    MessageBox.Show($"La carrera {carreraARestaurar.NombreTitulo} ha sido " +
+                        $"restaurada",
+                    "Restaurar", MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show($"La carrera {carreraARestaurar.NombreTitulo} no pudo ser " +
                     $"restaurada",
-                "Restaurar", MessageBoxButtons.OK,
-                MessageBoxIcon.Information);
+                    "Restaurar", MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+                }
             }
         }
     }

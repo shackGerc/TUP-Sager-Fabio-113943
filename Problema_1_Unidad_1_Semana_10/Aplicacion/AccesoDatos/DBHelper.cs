@@ -209,6 +209,19 @@ namespace Aplicacion.AccesoDatos
             return exito;
         }
 
+        public bool Login(string nombre, string contrasenia)
+        {
+            ConfigurarComandoParaSP("comprobarUsuario");
+            cmd.Parameters.AddWithValue("@nombreUsuario", nombre);
+            cmd.Parameters.AddWithValue("@contrasenia", contrasenia);
 
+            SqlParameter param = new SqlParameter("@resultado", SqlDbType.Bit);
+            param.Direction = ParameterDirection.Output;
+
+            cmd.Parameters.Add(param);
+            cmd.ExecuteNonQuery();
+
+            return Convert.ToBoolean(param.Value);
+        }
     }
 }

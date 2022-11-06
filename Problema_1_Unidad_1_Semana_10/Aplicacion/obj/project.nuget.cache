@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2OnyQkS3lsppx2Slc+TEhAiFTvelPKFdQ+fBVUf1mlHEn4GDBw+QBNJa1dz47QWYnsTrnI/Xk3MV8tVET1Adw==",
+  "dgSpecHash": "37Gd6kEll/B9hyRrRvZ6BwzuoA94AzHZs/X988cmrKJaL9gxCOHaYQoBTfViSTx8QtxVdoZ1WYv3/rr7Qz4LGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

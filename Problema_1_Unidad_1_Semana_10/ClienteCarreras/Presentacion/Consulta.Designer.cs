@@ -142,7 +142,7 @@
             this.btnDeshabilitar.TabIndex = 31;
             this.btnDeshabilitar.Text = "Deshabilitar";
             this.btnDeshabilitar.UseVisualStyleBackColor = true;
-            this.btnDeshabilitar.Click += new System.EventHandler(this.btnBorrar_Click);
+            this.btnDeshabilitar.Click += new System.EventHandler(this.btnBorrar_ClickAsync);
             // 
             // btnRestaurar
             // 
@@ -152,7 +152,7 @@
             this.btnRestaurar.TabIndex = 32;
             this.btnRestaurar.Text = "Restaurar";
             this.btnRestaurar.UseVisualStyleBackColor = true;
-            this.btnRestaurar.Click += new System.EventHandler(this.btnRestaurar_Click);
+            this.btnRestaurar.Click += new System.EventHandler(this.btnRestaurar_ClickAsync);
             // 
             // chkbMostrarCarrerasDeshabilitadas
             // 

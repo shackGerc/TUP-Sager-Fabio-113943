@@ -39,20 +39,18 @@ namespace ClienteCarreras.Cliente
 
         public async Task<string> PostAsync(string url, string data)
         {
-            StringContent content = new StringContent(data, Encoding.UTF8, "aplication/json");
+            StringContent content = new StringContent(data, Encoding.UTF8, 
+            "application/json");
             var result = await cliente.PostAsync(url, content);
-
             var response = "";
             if (result.IsSuccessStatusCode)
-            {
                 response = await result.Content.ReadAsStringAsync();
-            }
             return response;
         }
 
         public async Task<string> PutAsync(string url, string data)
         {
-            StringContent content = new StringContent(data, Encoding.UTF8, "aplication/json");
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
             var result = await cliente.PutAsync(url, content);
 
             var response = "";

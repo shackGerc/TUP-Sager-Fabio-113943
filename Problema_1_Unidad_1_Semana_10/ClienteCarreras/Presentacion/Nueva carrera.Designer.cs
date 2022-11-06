@@ -42,10 +42,10 @@
             this.Cuatrimestre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.EliminarDetalle = new System.Windows.Forms.DataGridViewButtonColumn();
             this.btnAgregarMateria = new System.Windows.Forms.Button();
-            this.btnAceptar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.rbnPrimerCuatrimestre = new System.Windows.Forms.RadioButton();
             this.rbnSegundoCuatrimestre = new System.Windows.Forms.RadioButton();
+            this.btnAceptar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDetalles)).BeginInit();
             this.SuspendLayout();
             // 
@@ -186,17 +186,6 @@
             this.btnAgregarMateria.UseVisualStyleBackColor = true;
             this.btnAgregarMateria.Click += new System.EventHandler(this.btnAgregarDetalle_Click);
             // 
-            // btnAceptar
-            // 
-            this.btnAceptar.Location = new System.Drawing.Point(378, 508);
-            this.btnAceptar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(82, 46);
-            this.btnAceptar.TabIndex = 6;
-            this.btnAceptar.Text = "Aceptar";
-            this.btnAceptar.UseVisualStyleBackColor = true;
-            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_ClickAsync);
-            // 
             // btnSalir
             // 
             this.btnSalir.Location = new System.Drawing.Point(471, 508);
@@ -232,15 +221,26 @@
             this.rbnSegundoCuatrimestre.Text = "Segundo cuatrimestre";
             this.rbnSegundoCuatrimestre.UseVisualStyleBackColor = true;
             // 
+            // btnAceptar
+            // 
+            this.btnAceptar.Location = new System.Drawing.Point(383, 508);
+            this.btnAceptar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(82, 46);
+            this.btnAceptar.TabIndex = 9;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
+            // 
             // frmNuevaCarrera
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 562);
+            this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.rbnSegundoCuatrimestre);
             this.Controls.Add(this.rbnPrimerCuatrimestre);
             this.Controls.Add(this.btnSalir);
-            this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.btnAgregarMateria);
             this.Controls.Add(this.dgvDetalles);
             this.Controls.Add(this.lblMateria);
@@ -272,7 +272,6 @@
         private System.Windows.Forms.Label lblMateria;
         private System.Windows.Forms.DataGridView dgvDetalles;
         private System.Windows.Forms.Button btnAgregarMateria;
-        private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.RadioButton rbnPrimerCuatrimestre;
         private System.Windows.Forms.RadioButton rbnSegundoCuatrimestre;
@@ -281,5 +280,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn AnioCursado;
         private System.Windows.Forms.DataGridViewTextBoxColumn Cuatrimestre;
         private System.Windows.Forms.DataGridViewButtonColumn EliminarDetalle;
+        private Button btnAceptar;
     }
 }

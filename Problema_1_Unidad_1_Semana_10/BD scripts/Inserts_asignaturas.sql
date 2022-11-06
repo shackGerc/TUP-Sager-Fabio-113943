@@ -11,4 +11,7 @@ insert into asignaturas values ('Arquitectura y sistemas operativos')
 insert into asignaturas values ('Inglés 1')
 insert into asignaturas values ('Inglés 2')
 
+
 select * from asignaturas
+
+insert into Usuarios(nombre, contrasenia) values('Lucas', PWDENCRYPT('hola123'))

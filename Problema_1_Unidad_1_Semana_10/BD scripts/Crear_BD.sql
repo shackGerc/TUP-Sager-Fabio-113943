@@ -4,6 +4,14 @@ GO
 Use Carreras
 GO
 
+create table usuarios
+(
+cod_usuario int identity(1,1),
+nombre varchar(100),
+contrasenia varbinary(max)
+constraint pk_usuario primary key (cod_usuario)
+)
+
 create table carreras (
 cod_carrera int identity(1,1),
 nombre varchar(100)

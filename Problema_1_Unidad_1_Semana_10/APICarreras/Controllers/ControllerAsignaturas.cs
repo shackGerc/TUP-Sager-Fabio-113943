@@ -3,6 +3,8 @@ using Aplicacion.Servicios;
 using Aplicacion.Servicios.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Data;
 
 namespace APICarreras.Controllers
 {
@@ -21,6 +23,12 @@ namespace APICarreras.Controllers
         public List<Asignatura> Get()
         {
             return servicio.ConsultarAsignaturas();
+        }
+
+        [HttpGet("/getTabla")]
+        public IActionResult GetAsignaturasTabla()
+        {
+            return Ok(JsonConvert.SerializeObject(servicio.ConsultarAsignaturasTabla()));
         }
     }
 }

@@ -29,6 +29,12 @@ namespace Aplicacion.AccesoDatos.Implementaciones
             return asignaturas;
         }
 
+        public DataTable ConsultarAsignaturasTabla()
+        {
+            DataTable tabla = DBHelper.ObtenerInstancia().HacerConsultaConSP("pa_recuperar_asignaturas");
+            return tabla;
+        }
+
         public List<Carrera> ConsultarCarreras()
         {
             List<Carrera> carreras = new List<Carrera>();
@@ -88,6 +94,13 @@ namespace Aplicacion.AccesoDatos.Implementaciones
             return carreras;
         }
 
+        public DataTable ConsultarMateriasXCarrera()
+        {
+            DataTable tabla = DBHelper.ObtenerInstancia().HacerConsultaConSP(
+                "pa_consultar_cantidad_materias_x_carrera");
+            return tabla; ;
+        }
+
         public bool DeshabilitarCarrera(Carrera carrera)
         {
             return DBHelper.ObtenerInstancia().actualizarCarreraConSP("pa_actualizar_carrera", carrera);
@@ -96,6 +109,11 @@ namespace Aplicacion.AccesoDatos.Implementaciones
         public bool InsertarCarrera(Carrera carrera)
         {
             return DBHelper.ObtenerInstancia().InsertarCarreraConSP("pa_insertar_carrera", carrera);
+        }
+
+        public bool Login(string nombre, string contrasenia)
+        {
+            return DBHelper.ObtenerInstancia().Login(nombre, contrasenia);
         }
 
         public bool ModificarCarrera(Carrera carreraModificada)

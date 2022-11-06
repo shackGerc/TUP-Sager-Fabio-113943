@@ -64,3 +64,14 @@ alter proc pa_consultar_cantidad_materias_x_carrera
 	select c.nombre Carrera, count(cod_asignatura) 'Cantidad_materias'
 	from carreras c join detalleCarreras dc on c.cod_carrera=dc.cod_carrera
 	group by c.cod_carrera, c.nombre
+
+alter proc comprobarUsuario
+@nombreUsuario varchar(100), @contrasenia varchar(100), @resultado bit output
+as
+begin
+	if(exists (select * from Usuarios where nombre=@nombreUsuario  and PWDCOMPARE(@contrasenia, 
+	contrasenia) = 1))
+		set @resultado = 1
+	else
+		set @resultado = 0
+end

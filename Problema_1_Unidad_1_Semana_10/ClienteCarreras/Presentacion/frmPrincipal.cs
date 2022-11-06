@@ -1,3 +1,4 @@
+using ReportesNetFramework;
 namespace ClienteCarreras.Presentacion
 {
     public partial class frmPrincipal : Form
@@ -32,6 +33,17 @@ namespace ClienteCarreras.Presentacion
         {
             frmModificar modificar = new frmModificar();
             modificar.ShowDialog();
+        }
+
+        private void asignaturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmRptAsignaturas asignaturas = new frmRptAsignaturas();
+            asignaturas.ShowDialog();
+        }
+
+        private void asignaturasPorCarreraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new frmRptMateriasxCarrera().ShowDialog();
         }
     }
 }

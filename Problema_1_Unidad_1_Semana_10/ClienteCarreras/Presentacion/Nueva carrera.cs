@@ -1,4 +1,6 @@
 ﻿using Aplicacion.Dominio;
+using Aplicacion.Servicios.Implementaciones;
+using Aplicacion.Servicios.Interfaces;
 using ClienteCarreras.Cliente;
 using Newtonsoft.Json;
 using System;
@@ -17,11 +19,13 @@ namespace ClienteCarreras.Presentacion
     public partial class frmNuevaCarrera : Form
     {
         Carrera carrera;
+        IServicio servicio;
 
         public frmNuevaCarrera()
         {
             InitializeComponent();
             carrera = new Carrera();
+            servicio = new ServicioCarrera();
         }
 
         private async Task CargarCboMateriasAsync()
@@ -117,20 +121,14 @@ namespace ClienteCarreras.Presentacion
             carrera.NombreTitulo = txtNombreCarrera.Text;
         }
 
-        private async Task<bool> GrabarCarrera(Carrera carreraNueva)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
-            string url = "http://localhost:5225/api/ControllerCarreras";
-            string carreraJson = JsonConvert.SerializeObject(carreraNueva);
-
-            var result = await ClienteSingleton.ObtenerInstancia().PostAsync(url, carreraJson);
-            return result.Equals("true");
+            this.Dispose();
         }
 
-        private async void btnAceptar_ClickAsync(object sender, EventArgs e)
+        private async void btnAceptar_Click(object sender, EventArgs e)
         {
-            bool ok = true;
-
-            if (txtNombreCarrera.Text.Equals(String.Empty))
+            if (txtNombreCarrera.Text == "")
             {
                 MessageBox.Show("Debe ingresar el nombre de la carrera!",
                 "Control", MessageBoxButtons.OK,
@@ -138,26 +136,21 @@ namespace ClienteCarreras.Presentacion
                 return;
             }
 
-            ok = await GrabarCarrera(carrera);
+            string url = "http://localhost:5225/carreraPost";
+            string carreraJson = JsonConvert.SerializeObject(carrera);
 
+            var result = await ClienteSingleton.ObtenerInstancia().PostAsync(url, carreraJson);
 
-            if(ok)
+            if (!result.Equals("true"))
             {
                 MessageBox.Show("Error, no se pudo cargar la carrera", "Insertar",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
-            if (ok)
+            else
             {
                 MessageBox.Show("La carrera se inserto con exito", "Insertar",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-
-        }
-
-        private void btnCancelar_Click(object sender, EventArgs e)
-        {
-            this.Dispose();
         }
     }
 }

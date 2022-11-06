@@ -2,6 +2,8 @@
 using Aplicacion.Servicios;
 using Aplicacion.Servicios.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Data;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -18,40 +20,54 @@ namespace APICarreras.Controllers
             servicio = new ImpFabricaServicio().CrearServicio();
         }
 
-        // GET: api/<ControllerCarreras>
-        [HttpGet]
+        [HttpGet("/GetMateriasXCarrera")]
+        public IActionResult GetMateriasXCarrera()
+        {
+            return Ok(JsonConvert.SerializeObject(servicio.ConsultarMateriasXCarrera()));
+        }
+
+        [HttpGet("/CarreraGet")]
         public List<Carrera> Get()
         {
             return servicio.ConsultarCarreras();
         }
 
-        // POST api/<ControllerCarreras>
-        [HttpPost]
+        [HttpPost("/carreraPost")]
         public IActionResult Post(Carrera carrera)
         {
-            if (carrera != null)
+            try
             {
-                bool result = servicio.InsertarCarrera(carrera);
-                return (Ok(result));
+                if (carrera == null)
+                {
+                    return BadRequest("Datos de carrera incorrectos");
+                }
+                return Ok(servicio.InsertarCarrera(carrera));
             }
-
-            return BadRequest("Debe ingresar una carrera como parametro");
+            catch(Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
         }
 
-        // PUT api/<ControllerCarreras>/5
-        [HttpPut("/carrera")]
+        [HttpPut("/carreraPut")]
         public IActionResult Put(Carrera carreraModificada)
         {
-            if (carreraModificada != null)
+            try
             {
-                bool result = servicio.ModificarCarrera(carreraModificada);
-                return Ok(result);
+                if (carreraModificada == null)
+                {
+                    return BadRequest("Debe ingresar una carrera como parametro");
+                }
+                return Ok(servicio.ModificarCarrera(carreraModificada));
             }
-            return BadRequest("Debe ingresar una carrera como parametro");
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+            
         }
 
-        // DELETE api/<ControllerCarreras>/5
-        [HttpDelete]
+        [HttpDelete("/CarreraDel")]
         public IActionResult Delete(Carrera carrera)
         {
             if(carrera != null)

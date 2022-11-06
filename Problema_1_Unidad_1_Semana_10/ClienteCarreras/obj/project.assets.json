@@ -172,6 +172,15 @@
         "runtime": {
           "bin/placeholder/Aplicacion.dll": {}
         }
+      },
+      "ReportesNetFramework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ReportesNetFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReportesNetFramework.dll": {}
+        }
       }
     }
   },
@@ -520,12 +529,18 @@
       "type": "project",
       "path": "../Aplicacion/Aplicacion.csproj",
       "msbuildProject": "../Aplicacion/Aplicacion.csproj"
+    },
+    "ReportesNetFramework/1.0.0": {
+      "type": "project",
+      "path": "../ReportesNetFramework/ReportesNetFramework.csproj",
+      "msbuildProject": "../ReportesNetFramework/ReportesNetFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "Aplicacion >= 1.0.0",
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "ReportesNetFramework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -535,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\ClienteCarreras\\ClienteCarreras.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\ClienteCarreras\\ClienteCarreras.csproj",
       "projectName": "ClienteCarreras",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\ClienteCarreras\\ClienteCarreras.csproj",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\ClienteCarreras\\ClienteCarreras.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\ClienteCarreras\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\ClienteCarreras\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -560,8 +575,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\New folder\\Problema_1_Unidad_1_Semana_6\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\Aplicacion\\Aplicacion.csproj"
+            },
+            "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\ReportesNetFramework\\ReportesNetFramework.csproj": {
+              "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\Repositorios\\TUP-Sager-Fabio-113943\\Problema_1_Unidad_1_Semana_10\\ReportesNetFramework\\ReportesNetFramework.csproj"
             }
           }
         }
