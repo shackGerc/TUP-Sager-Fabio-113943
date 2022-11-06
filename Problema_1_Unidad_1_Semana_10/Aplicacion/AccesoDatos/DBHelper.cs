@@ -221,6 +221,8 @@ namespace Aplicacion.AccesoDatos
             cmd.Parameters.Add(param);
             cmd.ExecuteNonQuery();
 
+            Desconectar();
+
             return Convert.ToBoolean(param.Value);
         }
     }
