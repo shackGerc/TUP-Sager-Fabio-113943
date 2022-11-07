@@ -1,0 +1,36 @@
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll

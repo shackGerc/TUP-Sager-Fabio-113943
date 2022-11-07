@@ -1,0 +1,71 @@
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\appsettings.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\APICarreras.exe
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\APICarreras.deps.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\APICarreras.runtimeconfig.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\APICarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\scopedcss\bundle\APICarreras.styles.css
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\refint\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\APICarreras.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\APICarreras\obj\Debug\net6.0\ref\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\appsettings.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\APICarreras.exe
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\APICarreras.deps.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\APICarreras.runtimeconfig.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\APICarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\scopedcss\bundle\APICarreras.styles.css
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\refint\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\ref\APICarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\obj\Debug\net6.0\APICarreras.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\APICarreras\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -1,0 +1,230 @@
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.exe.config
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.exe.config
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\bin\Debug\Problema_1_Unidad_1.exe.config
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\bin\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\bin\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana2\obj\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Problema_1_Unidad_1.exe.config
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.pdb
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.Presentacion.frmModificar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\EnvDTE.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\stdole.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptAsignaturas.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_semana_3\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptMateriasPorCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\EnvDTE.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\stdole.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptAsignaturas.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptMateriasPorCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.Presentacion.frmModificar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1\obj\Debug\Problema_1_Unidad_1.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Problema_1_Unidad_1.exe.config
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\EnvDTE.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\stdole.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptAsignaturas.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.Presentacion.frmRptMateriasPorCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.Presentacion.frmModificar.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.exe
+C:\Users\fabio\OneDrive\Escritorio\C# PROJECTS\TUP - Programación 2\Problema_1_Unidad_1_113943_1w4_Sager, Fabio\obj\Debug\Problema_1_Unidad_1.pdb

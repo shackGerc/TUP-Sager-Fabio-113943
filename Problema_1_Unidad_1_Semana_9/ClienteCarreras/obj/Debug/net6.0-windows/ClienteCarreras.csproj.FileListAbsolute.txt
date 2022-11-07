@@ -1,0 +1,100 @@
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.exe
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.deps.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.runtimeconfig.json
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\refint\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ref\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\CLienteCarreras.Presentacion.frmModificar.resources
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\New folder\Problema_1_Unidad_1_Semana_6\ClienteCarreras\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmConsultar.resources
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmPrincipal.resources
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmModificar.resources
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmNuevaCarrera.resources
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\refint\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.exe
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.deps.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.runtimeconfig.json
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ClienteCarreras.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Aplicacion.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Aplicacion.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ref\ClienteCarreras.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\obj\Debug\net6.0-windows\ClienteCarreras.Presentacion.frmLogin.resources
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ReportesNetFramework.exe
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ReportesNetFramework.pdb
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ReportesNetFramework.exe.config
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fabio\OneDrive\Escritorio\Repositorios\TUP-Sager-Fabio-113943\Problema_1_Unidad_1_Semana_10\ClienteCarreras\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
